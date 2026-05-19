@@ -190,3 +190,4 @@ from sales;
 Update sales 
 set payment_mode = 'Credit Card'
 where payment_mode = 'CC';
+
